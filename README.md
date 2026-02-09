@@ -13,4 +13,4 @@
 ○ атрибуты качества;  
 ○ бизнес-правила;  
 ○ глоссарий.  
-Get [Спецификация к Проекту 1](https://github.com/aldred1987/portfolio/blob/main/Спецификация%20требований%20к%20ПО%20Chatty%202.0_v1.docx)
+[Спецификация к Проекту 1](https://github.com/aldred1987/portfolio/blob/main/Спецификация%20требований%20к%20ПО%20Chatty%202.0_v1.docx)
